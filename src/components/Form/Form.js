@@ -69,7 +69,7 @@ export default function Form({ editModeOff }) {
         className="Form-control__button-save"
         onClick={() => editModeOff()}
       >
-        изменить
+        сохранить
       </button>
       {
         form.editingMode.state
