@@ -1,0 +1,14 @@
+.ServiceList {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.ServiceRow {
+  width: 500px;
+  background-color: white;
+  text-align: center;
+}
+
+.ServiceRow button {
+  margin-left: 10px;
+}

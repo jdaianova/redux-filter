@@ -1,0 +1,15 @@
+.Form {
+  display: inline-flex;
+  align-items: flex-end;
+}
+
+.Form-control {
+  display: flex;
+  flex-direction: column;
+  max-width: 170px;
+  margin-top: 10px;
+}
+
+.Form-control input {
+ width: 200px;
+}
